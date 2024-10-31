@@ -1,0 +1,97 @@
+table p {	
+	font-size: 17px;
+}
+
+.pm_gdpr_wrap {
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+#settings_header p {
+	font-size:30px;
+	font-weight:bold;
+}
+
+.pm_gdpr_settings_btn, .pm_gdpr_primary_buttons {
+    margin-top:10px;
+	-moz-user-select: none;
+    background-color: #CF1626;
+    background-image: -moz-linear-gradient(center top , #CF1626, #AE1F1F);
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 2px 2px 2px 2px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    min-width: 46px;
+    padding: 10px 26px;
+    text-align: center;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+    transition: all 0.218s ease 0s;
+}
+
+.pm__gdpr_primary_buttons {
+    font-size: 15px;
+    padding: 10px;
+}
+
+.pm_gdpr_msg_error {
+    background:#fff3f3;
+    padding:10px;
+    margin:10px;
+    border:1px solid #ff0000;
+}
+
+.pm_gdpr_msg_success {
+    background:#ecffd8;
+    padding:10px;
+    margin:10px;
+    border:1px solid #b0d38b;
+}
+
+.pm_gdpr_headbar {
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    background:#CF1626;
+    height:50px;
+    clear:both
+}
+
+.pm_gdpr_pagetitle {
+    float:left;
+    width:500px;
+    padding-left:20px;
+    color:#fff;
+}
+
+.pm_gdpr_pagetitle h2 {
+    font-weight:bold;
+    color:#ffffff;
+}
+
+.pm_gdpr_logodiv {
+    float:right;
+    padding-top: 6px;
+    margin-right: 12px;
+}
+
+.pm_gdpr_enable_lable {
+    width:300px;
+    float:left;
+    font-size:17px;
+    padding-top:5px;
+    color:#333333;
+}
+
+.pm_gdpr_clear_float {
+    clear: both;
+}
+
+.pm_gdpr_tgl_btn {
+    float: left;
+    width: 90px;
+}
